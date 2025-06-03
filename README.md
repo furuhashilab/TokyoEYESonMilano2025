@@ -14,3 +14,10 @@
 ## License
  * 古橋オリジナルの主題図レイヤーは Creative Commons Zero / Public Domain ライセンスとして完全公開します。商用利用も含めて自由にお使いください。
  * 背景地図レイヤは [Creative Commons CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/): `© Stadia Maps © Stamen Design © OpenMapTiles © OpenStreetMap contributors` として、コピーライト表記を必ず併記してください。このルールを守った場合は、許諾不要で商用利用も行えます。
+
+
+## Thanks for the great content
+ * [Duomo Di Milano Church SVG](https://www.svgrepo.com/svg/296426/duomo-di-milano-church), CC0 / Public Domain
+ * [Football Stadium SVG Vector](https://www.svgrepo.com/svg/509505/football-stadium), CC0 / Public Domain
+ * [Sansiro Studium Icon | Creative Fabrica](https://www.creativefabrica.com/product/stadio-di-san-siro-silhouette/)
+ * [11943-bus-stop-icon-8 | ICON MONO](https://icooon-mono.com/11943-bus-stop-icon-8/)
