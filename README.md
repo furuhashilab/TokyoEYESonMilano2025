@@ -27,3 +27,9 @@
  * [Football Stadium SVG Vector](https://www.svgrepo.com/svg/509505/football-stadium), CC0 / Public Domain
  * [Sansiro Studium Icon | Creative Fabrica](https://www.creativefabrica.com/product/stadio-di-san-siro-silhouette/)
  * [11943-bus-stop-icon-8 | ICON MONO](https://icooon-mono.com/11943-bus-stop-icon-8/)
+
+
+## 5. References
+ * Gould, P., & White, R. (1974). Mental maps. Harmondsworth: Penguin Books. https://doi.org/10.1177/030913259501900110
+ * Götz, N., & Holmén, J. (2018). Editorial. Journal of Cultural Geography, 35(2), 157–161. https://doi.org/10.1080/08873631.2018.1426953
+ * 谷口一刀. (n.d.). 日本バカ地図 [Video]. YouTube. https://youtu.be/ZE11LYQx9yU?si=_e-cAntrjL9gIBwm
