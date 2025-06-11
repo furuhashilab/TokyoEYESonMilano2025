@@ -3,7 +3,7 @@
 完璧な答えはありませんが、この地図の目的は東京の街をよく知っている人がミラノにやってきたときにわかりやすく説明するための空間認識を補助する地図になります。
 使用例「チェントラーレ駅は東京でいうと上野駅的存在で、他の地域と比較すると少し治安が悪いから気をつけてね」「City Lifeは中野当たりに位置するお台場みたいな場所で、敷地は広いし国際展示場などもあるけど、ミラノ中心部からちょっと離れてるところ」など。日々、多くのフィードバックによって更新されています。
 
-<img src="https://github.com/furuhashilab/TokyoEYESonMilano2025/blob/main/maps/v1.1.1/TokyoEyesonMilano2025_v1.1.1.jpg?raw=true" width="800">
+<img src="https://github.com/furuhashilab/TokyoEYESonMilano2025/blob/main/maps/v1.2.0/TokyoEyesonMilano2025_v1.2.0.jpg?raw=true" width="800">
 
 ## 0. Download
  * 最新版は [Releases](https://github.com/furuhashilab/TokyoEYESonMilano2025/releases) からダウンロードできます。
