@@ -9,6 +9,7 @@
  * 最新版は [Releases](https://github.com/furuhashilab/TokyoEYESonMilano2025/releases) からダウンロードできます。
 
 ## 1. History
+ * [v1.2.0 SNSで告知後いただいたフィードバックを元に修正. 2025-06-11](https://github.com/furuhashilab/TokyoEYESonMilano2025/tree/main/maps/v1.2.0)
  * [v1.1.1 ミラノ日本人学校周辺を大泉学園と定義.また特別授業でのフィードバックを反映させてナビリオ運河を目立つように誇張。 2025-06-07](https://github.com/furuhashilab/TokyoEYESonMilano2025/tree/main/maps/v1.1.1)
  * [v1.0.1 デジタルデータでダウンロードできるようにこのGitHubリポジトリへアクセスできるQRコードを配置. 2025-06-06](https://github.com/furuhashilab/TokyoEYESonMilano2025/tree/main/maps/v1.0.1)
  * [v1.0.0 ミラノ日本人学校での特別授業にて正式公開. 2025-06-06](https://github.com/furuhashilab/TokyoEYESonMilano2025/tree/main/maps/v1.0.0)
