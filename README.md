@@ -1,4 +1,7 @@
 # Tokyo EYES on Milano 2025
+
+Here is the mental map where Tokyo place names are applied to the city of Milan. The design data is in a Keynote file. The Osaka version is currently in the works. There’s no perfect answer, but the purpose of this map is to assist with spatial recognition, making it easier for someone familiar with Tokyo to understand Milan. Usage examples: “Centrale Station is like Ueno Station in Tokyo; compared to other areas, it’s a bit less safe, so be careful.” “City Life is like Odaiba, located around Nakano, with a large site including an international exhibition center, but it’s a bit far from central Milan.” It is updated on a lot of feedback.
+
 ミラノの街に東京の地名を当てはめてみたメンタルマップです。デザインデータは Keynote ファイルになります。大阪版は絶賛作成中。
 完璧な答えはありませんが、この地図の目的は東京の街をよく知っている人がミラノにやってきたときにわかりやすく説明するための空間認識を補助する地図になります。
 使用例「チェントラーレ駅は東京でいうと上野駅的存在で、他の地域と比較すると少し治安が悪いから気をつけてね」「City Lifeは中野当たりに位置するお台場みたいな場所で、敷地は広いし国際展示場などもあるけど、ミラノ中心部からちょっと離れてるところ」など。日々、多くのフィードバックによって更新されています。
