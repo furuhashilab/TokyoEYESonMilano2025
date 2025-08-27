@@ -12,6 +12,7 @@ Here is the mental map where Tokyo place names are applied to the city of Milan.
  * 最新版は [Releases](https://github.com/furuhashilab/TokyoEYESonMilano2025/releases) からダウンロードできます。
 
 ## 1. History
+ * [v1.3.8 日本語版に加えて、ローマ字併記した英語版も用意しました. 2025-08-27](https://github.com/furuhashilab/TokyoEYESonMilano2025/tree/main/maps/v1.3.8)
  * [v1.2.0 SNSで告知後いただいたフィードバックを元に修正. 2025-06-11](https://github.com/furuhashilab/TokyoEYESonMilano2025/tree/main/maps/v1.2.0)
  * [v1.1.1 ミラノ日本人学校周辺を大泉学園と定義.また特別授業でのフィードバックを反映させてナビリオ運河を目立つように誇張。 2025-06-07](https://github.com/furuhashilab/TokyoEYESonMilano2025/tree/main/maps/v1.1.1)
  * [v1.0.1 デジタルデータでダウンロードできるようにこのGitHubリポジトリへアクセスできるQRコードを配置. 2025-06-06](https://github.com/furuhashilab/TokyoEYESonMilano2025/tree/main/maps/v1.0.1)
